@@ -29,3 +29,12 @@ npm run dev
 ## Struttura
 - `src/App.vue` → contiene tutto lo stato principale (single source of truth)
 - `src/components/TaskItem.vue` → componente per la singola task, riceve dati via props e comunica con emit
+
+
+## Link Github Pages 
+- Il progetto è online al seguente link: https://adrianko112.github.io/Todo-Pro/
+- Quando apporto modifiche devo rilanciare nel terminale aperto nella cartella del progetto 
+```bash
+npm run deploy
+```
+- per le modifiche, attendere 1-2 minuti
